@@ -1,0 +1,25 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "Module 11 - Set up and run a Node.js web server using Express.js  Handle two types of GET requests using parameters  Make the application production-ready and deploy it on Heroku.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loriful/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loriful/zookeepr/issues"
+  },
+  "homepage": "https://github.com/loriful/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
